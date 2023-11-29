@@ -192,11 +192,6 @@ The project is deployed and in use by the creator. Public may use repo as needed
 
 Through building other projects the problems from user feedback was by word of mouth and difficult to get or keep track of. This will provide a solution for myself or a small team managing multiple websites. This project was also intended as an oportunity to improve my delevelopment skills.
 
-## Contact
-
-Created by [Jesse Hall](https://www.linkedin.com/in/jessehall/)
-Feel free to contact me for any questions!
-
 ```
 
 ```
